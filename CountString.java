@@ -26,7 +26,7 @@ public class CountString {
 	public static void main(String args[]) {
 		
 	
-	
+	System.out.println("Its program is count the string");
 	Scanner sobj = new Scanner(System.in);
 	System.out.println("Enter the string");
 	
